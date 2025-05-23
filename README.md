@@ -1,16 +1,13 @@
-## Hi there 👋
+# olá, eu sou o marcos 🧑‍🚀
 
-<!--
-**alargaveia14/alargaveia14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - Estutante do 1º ano b do ensino medio 
+ - colégio professores edvaldo e maria janete carneiro
+ - turvo-pr
 
-Here are some ideas to get you started:
+ ## sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - aprendendo HTML,CSS, e javaScript
+ - objetivo: ser mecánico
+ - hobbies:andar de moto
+
+![](https://i.gifer.com/1fDE.gif)
